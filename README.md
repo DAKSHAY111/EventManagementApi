@@ -11,7 +11,7 @@ We hope that this project will be useful for individuals and groups who are inte
 
 
 
-
+## Client Side Project Link : https://github.com/DAKSHAY111/WSD_Event_Management_Client
 
 
 ## Features
